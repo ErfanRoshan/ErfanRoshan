@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErfanRoshan
 - 👀 I’m interested in ImageProssesing and deep learning (nn)
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning c++ and Go
 - 💞️ I’m looking to collaborate on good image processing company
 - 📫 How to reach me +989120876720 Email:erfan.roshan@gmail.com
 
